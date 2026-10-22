@@ -1,3 +1,8 @@
+
+I created this project for the Maven Analytics Music Challenge
+
+https://www.linkedin.com/pulse/new-data-challenge-alert-maven-analytics-rt7qc/
+
 ***📌 Project Overview***
 
 <img width="176" height="231" alt="holder" src="https://github.com/user-attachments/assets/a239a871-1d10-4675-abd0-db7cb0e4376e" />
