@@ -11,6 +11,8 @@ This project explores Spotify listening history through an interactive Power BI 
 
 The goal was to move beyond simply counting streams and use data visualization to understand what I listen to, which artists I return to, and how my listening habits can be explored through data.
 
+
+
 **🎯 Business Problem**  
 
 Music streaming generates activity data that can reveal valuable behavioural patterns. However, raw listening history alone does not make these patterns easy to understand.
@@ -73,10 +75,29 @@ B. Artist Analysis-Identify frequently played artists and examine which artists 
 C. Listening Behaviour-Investigate repeated listening patterns to understand whether listening activity is concentrated around familiar artists or distributed across different artists.
 
 
-**📈 Dashboard & User Experience**
+**📈 Dashboard & User Experience** - Elements I wanted to be on my dashboard
 
 
-I wanted the user who is visiting my dashboard to have the same feel as they see their Spotify App on their phone. A music-inspired presentation that connects the analytical experience with the Spotify theme
+I wanted the user who is visiting my dashboard to have the same feel as they see their Spotify App on their phone. A music-inspired presentation that connects the analytical experience with the Spotify themeElements I wanted to incorporate in my dashboard
+
+When Spotify Wrap was initially launched it was made available only on the mobile devices. To recreate that original experience, I designed my dashboard with a mobile phone theme for an immersive feel.
+
+I included a brief introduction to Spotify Wrapped so that users unfamiliar with the concept can quickly understand this innovative initiative by Spotify. (Fun fact: I only discovered this feature myself while working on this project!
+
+A short history about how Spotify Wrap was introduced and how it has evolved has been added to the dashboard.
+
+Since Spotify Wrapped is a personalized user stats sent to each user , I wanted to ensure that each page of the dashboard is designed accordingly with surprises here and there to make the user feel more nostalgic and connected.
+
+The core appeal of Spotify Wrapped lies in nostalgia and curiosity, as users love reflecting on their listening habits and behaviors. To enhance this experience, I’ve incorporated an element in my dashboard that reveals your personality based on your listening habits—making it even more engaging and personal, the reference of this is taken from the Spotify's website.
+
+I decided to stick on the color choice of Spotify so the user gets the same feel.
+
+I’ve added a dedicated page that provides deeper insights into the user’s top artist—offering a closer look at the musician they’re most fond of. This enhances the experience by making their listening habits feel even more personal and meaningful.
+
+I have added the share option button retaining the Spotify Wrapped main functionality and this will redirect the user to one of the social media.
+
+
+
 
 **** Link to the Dashboard*****
 
