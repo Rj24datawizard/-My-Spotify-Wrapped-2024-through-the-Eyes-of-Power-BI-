@@ -71,11 +71,14 @@ Power BI Desktop |Power Query |DAX |Data Modelling
 **📊 Key Analytical Areas**
 
 A. Listening Activity -Explore overall listening activity through measures such as total streams, total songs, and listening duration.
+
 B. Artist Analysis-Identify frequently played artists and examine which artists account for a significant share of listening activity.
+
 C. Listening Behaviour-Investigate repeated listening patterns to understand whether listening activity is concentrated around familiar artists or distributed across different artists.
 
 
-**📈 Dashboard & User Experience** - Elements I wanted to be on my dashboard
+
+**📈 Dashboard & User Experience** - Elements I wanted to incorporate on my dashboard
 
 
 I wanted the user who is visiting my dashboard to have the same feel as they see their Spotify App on their phone. A music-inspired presentation that connects the analytical experience with the Spotify themeElements I wanted to incorporate in my dashboard
@@ -99,7 +102,8 @@ I have added the share option button retaining the Spotify Wrapped main function
 
 
 
-**** Link to the Dashboard*****
+
+*** Link to the Dashboard***
 
 https://app.powerbi.com/view?r=eyJrIjoiZTg3MGYxODAtMzI2My00NWE5LWJjZTAtMTQ5NGU3OWNjNjA1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=52603816852504b96f74
 
