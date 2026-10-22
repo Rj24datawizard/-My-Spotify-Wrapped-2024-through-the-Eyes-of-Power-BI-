@@ -78,6 +78,11 @@ C. Listening Behaviour-Investigate repeated listening patterns to understand whe
 
 I wanted the user who is visiting my dashboard to have the same feel as they see their Spotify App on their phone. A music-inspired presentation that connects the analytical experience with the Spotify theme
 
+**** Link to the Dashboard*****
+
+https://app.powerbi.com/view?r=eyJrIjoiZTg3MGYxODAtMzI2My00NWE5LWJjZTAtMTQ5NGU3OWNjNjA1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=52603816852504b96f74
+
+
 
 **💡 Business Value**
 
